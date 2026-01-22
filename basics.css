@@ -1,0 +1,46 @@
+body{
+    background-image: url("https://tse4.mm.bing.net/th/id/OIP.8JIImo-baGGAHtF1L2bDRgHaEP?pid=Api&P=0&h=180");
+    /*background-attachment: scroll;*/
+    background-position: right;
+    background-size: cover;
+}
+h1.one{
+    border:5px  blue dotted;
+    color:red;
+    padding:3px;
+    background-color: lightgreen;
+    scroll-behavior: auto;
+}
+table{
+    border-color:darkgreen;
+     color:darkblue;
+     background-image:url("https://tse4.mm.bing.net/th/id/OIP.SHFX12n9IsJBl_0fNPTm-wHaED?pid=Api&P=0&h=180") ;
+     background-size: cover;
+}
+/*td{
+    background-color: darkcyan;
+}*/
+th{
+    background-color: red;
+}
+.merge{
+    background-image:url("https://tse4.mm.bing.net/th/id/OIP.lVzE4aPp6WuhtYuLEfJ8AwHaHa?pid=Api&P=0&h=180");
+    background-size:cover;
+}
+.mer{
+    background-image: url("https://tse2.mm.bing.net/th/id/OIP.hzP3mzoiL6cvJOgXmsNJxgHaFb?pid=Api&P=0&h=180");
+    background-size: cover;
+}
+h4{
+    color:darkgreen;
+    
+}
+p{
+    color:coral;
+}
+h1{
+    color:orangered;
+}
+ol{
+    color:crimson;
+}
